@@ -97,6 +97,11 @@ main {
     font-size: 1.5em;
   }
 }
+@media (max-width: 25em) {
+  .meme--text {
+    font-size: 0.8em;
+  }
+}
 
 .bottom {
   bottom: 0;
